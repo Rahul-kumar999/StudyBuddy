@@ -61,8 +61,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📬 Contact
 
-Created by **\Rahul Kumar**
-📧 [rahul.3550kumar@.com](mailto:rahul.3550kumar@.com)
+Created by **Rahul Kumar**
+📧 [rahul.3550kumar@gmail.com](mailto:rahul.3550kumar@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/rahul-kumar-98666624b/) | [GitHub](https://github.com/Rahul-kumar999)
 
 ---
